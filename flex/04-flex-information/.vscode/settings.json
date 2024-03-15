@@ -1,0 +1,12 @@
+{
+    "html-css-class-completion.enableEmmetSupport": true,
+    "html-css-class-completion.includeGlobPattern": [
+        "**/*.{css,html}",
+        "*.{css,html}",
+    ]
+    "html-css-class-completion.enabledCSSLanguages": [
+        "css",
+        "sass",
+        "scss"
+    ]
+}
