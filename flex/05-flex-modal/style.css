@@ -30,6 +30,19 @@ body {
   margin-left: 16px;
 }
 
+.header {
+  font-weight: bold;
+  font-size: 18px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.text {
+  margin-top: 8px;
+  margin-bottom: 16px;
+}
+
 .icon {
   color: royalblue;
   font-size: 26px;
