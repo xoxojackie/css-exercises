@@ -28,3 +28,8 @@ input {
   width: 400px;
   margin-bottom: 16px;
 }
+
+.header>ul,
+.footer>ul {
+  list-style: none;
+}
