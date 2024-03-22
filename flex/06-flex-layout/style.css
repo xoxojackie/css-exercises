@@ -47,6 +47,12 @@ input {
   margin: 0 8px;
 }
 
+.header a,
+.footer a {
+  text-decoration: none;
+  color: #666;
+}
+
 .left-links,
 .right-links {
   display: flex;
