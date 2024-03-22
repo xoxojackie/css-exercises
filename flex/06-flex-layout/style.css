@@ -44,7 +44,7 @@ input {
 .header,
 .footer {
   justify-content: space-between;
-  margin: 0 8px;
+  margin: 0 16px;
 }
 
 .header a,
@@ -57,7 +57,7 @@ input {
 .right-links {
   display: flex;
   padding: 0;
-  gap: 8px;
+  gap: 16px;
 }
 
 .content {
