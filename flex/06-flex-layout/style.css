@@ -44,13 +44,18 @@ input {
 .header,
 .footer {
   justify-content: space-between;
-  margin: 0 16px;
+  margin: 0;
+  padding: 0 16px;
 }
 
 .header a,
 .footer a {
   text-decoration: none;
   color: #666;
+}
+
+.footer {
+  background-color: rgba(238, 238, 238, 1.00);
 }
 
 .left-links,
