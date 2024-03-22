@@ -33,3 +33,23 @@ input {
 .footer>ul {
   list-style: none;
 }
+
+.header,
+.footer,
+.left-links,
+.right-links {
+  display: flex;
+}
+
+.header,
+.footer {
+  justify-content: space-between;
+  margin: 0 8px;
+}
+
+.left-links,
+.right-links {
+  display: flex;
+  padding: 0;
+  gap: 8px;
+}
