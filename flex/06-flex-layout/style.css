@@ -12,6 +12,7 @@ body {
 
 img {
   width: 600px;
+  margin-bottom: 20px;
 }
 
 button {
@@ -19,6 +20,7 @@ button {
   border: none;
   border-radius: 8px;
   background: #eee;
+  padding: 6px 16px;
 }
 
 input {
