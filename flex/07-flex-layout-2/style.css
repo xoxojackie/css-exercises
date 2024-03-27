@@ -35,8 +35,18 @@ body {
   flex-direction: column;
 }
 
+.header {
+  font-size: 32px;
+  font-weight: 900;
+  display: flex;
+  align-items: center;
+  padding: 0 16px;
+}
+
 .footer {
-  align-items: flex-end;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .sidebar {
