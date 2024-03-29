@@ -71,3 +71,15 @@ body {
   display: flex;
   flex-grow: 1;
 }
+
+.main {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 32px;
+}
+
+.card {
+  width: 300px;
+  padding: 16px;
+  margin: 16px;
+}
